@@ -7,7 +7,7 @@ You can specify the number of rolls, the streak required before starting to bet,
 
 See the bottom of the ```gambler_falacy.py``` to tweak those options.
 
-```bash
+```
 $ python gambler_falacy.py
 Simulating 1000000 rolls
 Starting to bet after a streak of 10 reds or blacks

@@ -24,7 +24,7 @@ def get_roll():
 
 def check_odds(iterations=1000000):
     """
-    Just a sanity check to ensure the odds are in-deed accurate.
+    Just a sanity check to ensure the odds are indeed accurate.
     A standard american roulette table has the following odds:
         BLACK: 46.37%
         RED: 46.37%
